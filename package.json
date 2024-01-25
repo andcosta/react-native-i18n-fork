@@ -1,13 +1,13 @@
 {
-  "name": "react-native-i18n-fork",
-  "version": "3.0.0",
+  "name": "react-native-i18n-v4",
+  "version": "4.0.0",
   "description": "Provide I18n to your React Native application",
   "license": "MIT",
   "author": "Alexander Zaytsev",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "github.com/AlexanderZaytsev/react-native-i18n.git"
+    "url": "github.com/AlexanderZaytsev/react-native-i18n-v4.git"
   },
   "keywords": [
     "react-native",
